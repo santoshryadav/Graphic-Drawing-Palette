@@ -1,6 +1,7 @@
 ﻿# Paint Board
 
-This project is to show the user a drawing board on the web page.
+The program displays a drawing area, a palette to select a drawing mode, and undo button in a
+web browser
 
 ## Overview
 
